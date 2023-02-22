@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+:root {
+  --bg-color: #dcdc39;
+  --light-grey: #666;
+  --dark-grey: #161919;
+  --pink: #f974a1;
+}
